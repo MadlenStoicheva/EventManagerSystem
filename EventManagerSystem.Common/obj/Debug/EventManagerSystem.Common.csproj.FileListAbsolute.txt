@@ -1,0 +1,11 @@
+C:\Users\Madlen\source\repos\EventManagerSystem.Web\EventManagerSystem.Common\bin\Debug\EventManagerSystem.Common.dll
+C:\Users\Madlen\source\repos\EventManagerSystem.Web\EventManagerSystem.Common\bin\Debug\EventManagerSystem.Common.pdb
+C:\Users\Madlen\source\repos\EventManagerSystem.Web\EventManagerSystem.Common\obj\Debug\EventManagerSystem.Common.csprojAssemblyReference.cache
+C:\Users\Madlen\source\repos\EventManagerSystem.Web\EventManagerSystem.Common\obj\Debug\EventManagerSystem.Common.csproj.CoreCompileInputs.cache
+C:\Users\Madlen\source\repos\EventManagerSystem.Web\EventManagerSystem.Common\obj\Debug\EventManagerSystem.Common.dll
+C:\Users\Madlen\source\repos\EventManagerSystem.Web\EventManagerSystem.Common\obj\Debug\EventManagerSystem.Common.pdb
+C:\Users\Madlen\source\repos\EventManagerSystem.Web\EventManagerSystem.Common\bin\Debug\WebMatrix.Data.dll
+C:\Users\Madlen\source\repos\EventManagerSystem.Web\EventManagerSystem.Common\bin\Debug\WebMatrix.WebData.dll
+C:\Users\Madlen\source\repos\EventManagerSystem.Web\EventManagerSystem.Common\bin\Debug\WebMatrix.Data.xml
+C:\Users\Madlen\source\repos\EventManagerSystem.Web\EventManagerSystem.Common\bin\Debug\WebMatrix.WebData.xml
+C:\Users\Madlen\source\repos\EventManagerSystem.Web\EventManagerSystem.Common\obj\Debug\EventManagerSystem.Common.csproj.CopyComplete
