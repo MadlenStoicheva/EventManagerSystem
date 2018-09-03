@@ -7,13 +7,13 @@ namespace EventManagerSystem.Data.Entity.Migrations
     using System.Resources;
     
     [GeneratedCode("EntityFramework.Migrations", "6.2.0-61023")]
-    public sealed partial class Automatic : IMigrationMetadata
+    public sealed partial class automatic : IMigrationMetadata
     {
-        private readonly ResourceManager Resources = new ResourceManager(typeof(Automatic));
+        private readonly ResourceManager Resources = new ResourceManager(typeof(automatic));
         
         string IMigrationMetadata.Id
         {
-            get { return "201808251612557_Automatic"; }
+            get { return "201809031335238_automatic"; }
         }
         
         string IMigrationMetadata.Source

@@ -13,9 +13,9 @@ C:\Users\Madlen\source\repos\EventManagerSystem.Web\EventManagerSystem.Data.Enti
 C:\Users\Madlen\source\repos\EventManagerSystem.Web\EventManagerSystem.Data.Entity\obj\Debug\EventManagerSystem.Data.Entity.csproj.CopyComplete
 C:\Users\Madlen\source\repos\EventManagerSystem.Web\EventManagerSystem.Data.Entity\obj\Debug\EventManagerSystem.Data.Entity.dll
 C:\Users\Madlen\source\repos\EventManagerSystem.Web\EventManagerSystem.Data.Entity\obj\Debug\EventManagerSystem.Data.Entity.pdb
-C:\Users\Madlen\source\repos\EventManagerSystem.Web\EventManagerSystem.Data.Entity\obj\Debug\EventManagerSystem.Data.Entity.Migrations.Automatic.resources
-C:\Users\Madlen\source\repos\EventManagerSystem.Web\EventManagerSystem.Data.Entity\obj\Debug\EventManagerSystem.Data.Entity.csproj.GenerateResource.cache
 C:\Users\Madlen\source\repos\EventManagerSystem.Web\EventManagerSystem.Data.Entity\bin\Debug\WebMatrix.Data.dll
 C:\Users\Madlen\source\repos\EventManagerSystem.Web\EventManagerSystem.Data.Entity\bin\Debug\WebMatrix.WebData.dll
 C:\Users\Madlen\source\repos\EventManagerSystem.Web\EventManagerSystem.Data.Entity\bin\Debug\WebMatrix.Data.xml
 C:\Users\Madlen\source\repos\EventManagerSystem.Web\EventManagerSystem.Data.Entity\bin\Debug\WebMatrix.WebData.xml
+C:\Users\Madlen\source\repos\EventManagerSystem.Web\EventManagerSystem.Data.Entity\obj\Debug\EventManagerSystem.Data.Entity.Migrations.automatic.resources
+C:\Users\Madlen\source\repos\EventManagerSystem.Web\EventManagerSystem.Data.Entity\obj\Debug\EventManagerSystem.Data.Entity.csproj.GenerateResource.cache

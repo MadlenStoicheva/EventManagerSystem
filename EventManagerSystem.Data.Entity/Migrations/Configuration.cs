@@ -10,7 +10,6 @@ namespace EventManagerSystem.Data.Entity.Migrations
         public Configuration()
         {
             AutomaticMigrationsEnabled = true;
-            ContextKey = "EventManagerSystem.Data.Entity.EventManagerSystemContext";
         }
 
         protected override void Seed(EventManagerSystem.Data.Entity.EventManagerSystemContext context)

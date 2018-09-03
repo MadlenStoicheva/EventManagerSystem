@@ -54,9 +54,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="EventManagerSystemContext.cs" />
-    <Compile Include="Migrations\201808251612557_Automatic.cs" />
-    <Compile Include="Migrations\201808251612557_Automatic.Designer.cs">
-      <DependentUpon>201808251612557_Automatic.cs</DependentUpon>
+    <Compile Include="Migrations\201809031335238_automatic.cs" />
+    <Compile Include="Migrations\201809031335238_automatic.Designer.cs">
+      <DependentUpon>201809031335238_automatic.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -79,11 +79,6 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201808251612557_Automatic.resx">
-      <DependentUpon>201808251612557_Automatic.cs</DependentUpon>
-    </EmbeddedResource>
-  </ItemGroup>
-  <ItemGroup>
     <Content Include="Content\jquery.datetimepicker.css" />
     <Content Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
@@ -91,6 +86,11 @@
     <Content Include="Scripts\jquery-3.3.1.slim.js" />
     <Content Include="Scripts\jquery-3.3.1.slim.min.js" />
     <Content Include="Scripts\jquery.datetimepicker.js" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201809031335238_automatic.resx">
+      <DependentUpon>201809031335238_automatic.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
