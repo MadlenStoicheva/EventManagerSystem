@@ -23,8 +23,15 @@ namespace EventManagerSystem.Web.Controllers
             events.Reverse();
 
             EventsListViewModel model = new EventsListViewModel();
-            model.Events = events.GetRange(0, 3); 
+            if (events.Count < 3)
+            {
+                model.Events = events;
+            }
+            else
+            {
+                model.Events = events.GetRange(0, 3);
 
+            }
             return View(model);
         }
 

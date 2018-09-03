@@ -157,6 +157,7 @@
 
 @foreach (var events in Model.Events)
 {
+   
     <div class="events-list-container">
         <div class="events-list-box">
 
@@ -202,7 +203,7 @@
                 <button class="btn-default" style="border-radius:15px; height:2.5em; width:5em;">
                     @Html.ActionLink("Going", "Create", "Ticket", new { id = events.Id }, null)
                 </button>
-                         }
+                     }
                      }
 
                 @{
@@ -243,7 +244,8 @@
 
         </div>
     </div>
-}
+                        
+ }
 
 <br />
 
