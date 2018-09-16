@@ -30,7 +30,7 @@ namespace EventManagerSystem.NotificationServices
                 SmtpClient client = new SmtpClient("smtp.gmail.com", 587)
                 {
                     UseDefaultCredentials = false,
-                    Credentials = new NetworkCredential("madlen.stoycheva23@gmail.com", "skullhong23")
+                    Credentials = new NetworkCredential("madlen.stoycheva23@gmail.com", "hongstarfan1")
                 };
 
                 MailMessage mailMessage = new MailMessage
